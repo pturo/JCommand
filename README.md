@@ -1,5 +1,5 @@
 # JCommand
-Terminal like application. For educational purposes. Made with Java JDK 12 & 13 features like text blocks and switch statements. Additional things will be added soon with project's progress.
+Terminal-like application. For educational purposes. Made with Java JDK 12 & 13 features like text blocks and switch statements. Additional things will be added soon with project's progress.
 
 # Table of Contents
 * [General info](#general-info)
