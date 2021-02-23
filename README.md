@@ -12,7 +12,7 @@ This project is made for checking current abilities of programming in Java. Also
 
 ## Technologies
 Project is created with:
-* Java JDK 12 & 13
+* Java JDK 15 (with features of JDK 12 & 13).
 
 ## Setup
 To run this project, download it and open with IDE (for example IntelliJ IDEA by JetBrains). Your IDE should find the main class (it's ony one). If not, find manually. It's under jcommand package.
@@ -21,6 +21,10 @@ An example of running program:
 ![Image example](./images/img1.png)
 
 ## Changelog
+
+V1.1
+* Added -genfuntxt, -gft command into list. This command generates funny text in Polish language.
+* Added short versions of implemented commands.
 
 V1.0
 * Added -exit, -help, -open, --version commands.
